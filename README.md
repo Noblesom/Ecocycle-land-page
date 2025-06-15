@@ -20,17 +20,17 @@ I’m Nwafor Chisom, a passionate and forward-thinking Cloud Engineer with a str
 
 ## 📸 Screenshot of the Landing Page
 
-### 🖥️ Full Landing Page View
-![Landing Page View](screenshot1.png)
+## 🔧 Certbot & Nginx Setup
+![Certbot Nginx](certbot-nginx.png)
 
-### 🖥️ HTTP Unsecured View
-![HTTP Unsecured](screenshot2.png)
+## 🌐 Domain Configuration
+![Domain Configuration](domain-configuration.png)
 
-### 📱 HTTPS with Certbot
-![HTTPS Secured](screenshot3.png)
+## 🔐 HTTPS with Certbot
+![HTTPS with Certbot](https-with-certbot.png)
 
-### 🧩 Extra View or Animation
-![CSS Enhancement](screenshot4.png)
+## ✅ Final Secured Landing Page
+![Landing Page Secured](landing-page-secured.png)
 
 ---
 
